@@ -1,0 +1,267 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://clipartart.com/images/the-time-tunnel-clipart-4.png"  type="video" description="2014",Episode 01 - Rendezvous with Yesterday
+http://maestro.xtream.top:8000/movie/maestro9353/9435883bb/21153.mp4
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Tnt",TF1
+https://s13.tntendirect.com/tf1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-display-name="France 2" tvg-country="FR" tvg-lang="fr" tvg-logo="https://i.imgur.com/23MFY0U.png" group-title="Tnt",France 2
+https://s13.tntendirect.com/france2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://i.imgur.com/hxRmcTD.png" group-title="Tnt",Fr 3
+https://s13.tntendirect.com/france3/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/70px-Canal%2B.svg.png" group-title="Tnt",Canal+
+http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+
+#EXTINF:-1 tvg-name="Arte Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" tvg-id="ARTEFrench.fr" group-title="Tnt",Arte Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/50px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Tnt",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/5da6u0l.png" group-title="Tnt",France 5
+https://s13.tntendirect.com/france5/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Tnt",C8
+https://s13.tntendirect.com/d8/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="w9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/50px-W9_2018.svg.png" group-title="Tnt",w9
+https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhde/hls_short_enc_w9/NA/vpnjbv4/index.m3u8
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://i.imgur.com/bf0scMb.png" group-title="Tnt",TMC
+https://s13.tntendirect.com/tmc/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Tnt",TFX
+https://s13.tntendirect.com/nt1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/39px-NRJ_12_logo_2015.svg.png" group-title="Tnt",Nrj12
+https://s13.tntendirect.com/nrj12/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tnt",Nrj12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png" group-title="Tnt",France 4
+https://s13.tntendirect.com/france4/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_BFMTV_2019.svg/45px-Logo_BFMTV_2019.svg.png" group-title="Info",Bfm
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+
+
+#EXTINF:-1 tvg-id="CSTAR.fr" tvg-logo="https://i.imgur.com/CmnOEtM.png" group-title="Tnt",Cstar
+https://s13.tntendirect.com/d17/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gulli.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/45px-18._Gulli.png" group-title="Tnt",Gulli
+https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+
+#EXTINF:-1 tvg-id="gulli.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/75px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="Tnt",tf1 serie films
+https://origin2.live.salto.fr/pool_u81ytesz/tf1sf/saltohda/hls_long_enc_tf1sf/NA/vyMqwiI/index.m3u8
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/1QbR1A0.png" group-title="Tnt",6ter
+https://s13.tntendirect.com/6ter/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://i.imgur.com/jXANVZp.png" group-title="Tnt",RMC Story
+http://new.dtv21.org:2082/Audi_991039/ZILCF8W0/10171.ts
+
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://i.imgur.com/wzmlEBl.png" group-title="Tnt",RMC Découverte
+https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/45px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="Tnt",Cherie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="",--- France ---
+https://raw.githubusercontent.com/N0ub4x/The_Nounel_Project/main/Vid%C3%A9os/---%20France%20---.mp4
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",rakuten comedy movies
+https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Enfant",rakuten family
+https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="sport",rakuten spotlight
+https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film",rakuten action
+https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cp6E5sn.png" group-title="Enfant",Tortues Ninja TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nature",Pluto TV Nature
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="PlutoTvAction.fr" tvg-logo="https://i.imgur.com/kBBeeXx.png" group-title="Action",Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WjyB5lZ.png" group-title="Adulte",IGN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DiOiX4R.png" group-title="Enfant",Dora TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="PlutoTvCine.fr" tvg-logo="https://i.imgur.com/5l4ogRi.png" group-title="Film",Pluto TV Ciné
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="PlutoTvCineRetro.fr" tvg-logo="https://i.imgur.com/yYQG75l.png" group-title="Film",Pluto TV Ciné Rétro
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ivhwcjg.png" group-title="Comédie",Pluto TV Comédie
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yfk75lM.png" group-title="Enfant",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XCMr9pe.png" group-title="Enfant",Pluto TV Kids Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kptUbup.png" group-title="Enfant",Pluto TV Kids Collection
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hKJEPUm.png" group-title="Enfant",Pluto TV Kids Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JIFhEYB.png" group-title="Cuisine",Pluto TV Cuisine
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lAqANMt.png" group-title="Horreur",Pluto TV Crime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BdJBSR6.png" group-title="Drama",Pluto TV Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VLkMXlD.png" group-title="Horreur",Pluto TV Paranormal
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q3Q9TIk.png" group-title="Enfant",Pluto TV Teens Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fjHLlvo.png" group-title="Amour",Pluto TV Télénovela
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5C51qq5.png" group-title="Gaming",Pluto TV Gaming
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EOKyX4z.png" group-title="Comédie",Pluto TV The Pet Collective
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VtrteSH.png" group-title="Adulte",Fashion TV L'Original
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mY4SN2K.png" group-title="Adulte",Bloomberg TV+
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VtrteSH.png" group-title="Adulte",Fashion TV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mk0fNO9.png" group-title="Enfant",Bob l'éponge TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aiMAjfW.png" group-title="Adulte",South Park TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618e34ac4a270700077b1f32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vsiPZ9k.png" group-title="Adulte",M6 International
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
+
+#EXTINF:-1 tvg-id="FunRadio.fr" tvg-logo="https://i.imgur.com/2O10QwT.png" group-title="Radio",Fun Radio
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/index.m3u8
+
+#EXTINF:-1 tvg-id="FunRadio.fr" tvg-logo="https://i.imgur.com/z2GsFqa.jpg" group-title="Radio",Fun Radio Anthology
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funanthologie/130/index.m3u8
+
+#EXTINF:-1 tvg-id="NRJ.fr" tvg-logo="ttps://i.imgur.com/LJD2cai.png" group-title="Radio",NRJ
+https://scdn.nrjaudio.fm/fr/30001/mp3_128.mp3?origine=mytuner&cdn_path=adswizz_lbs11
+
+#EXTINF:-1 tvg-id="RTL.fr" tvg-logo="https://i.imgur.com/LJD2cai.png" group-title="Radio",RTL
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL2.fr" tvg-logo="https://i.imgur.com/2Dg2g1I.jpg" group-title="Radio",RTL 2
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/index.m3u8
+
+#EXTINF:-1 tvg-id="CherieFM.fr" tvg-logo="https://i.imgur.com/Q6uaD5O.png" group-title="Radio",Chérie FM
+https://scdn.nrjaudio.fm/fr/30201/mp3_128.mp3?origine=mytuner&cdn_path=adswizz_lbs9
+
+#EXTINF:-1 tvg-id="VirginRadio.fr" tvg-logo="https://i.imgur.com/eazBMxH.png" group-title="Radio",Virgin Radio
+https://stream.virginradio.fr/virgin.aac
+
+#EXTINF:-1 tvg-id="Skyrock.com" tvg-logo="https://i.imgur.com/6eOgkKG.png" group-title="Radio",Skyrock
+https://icecast.skyrock.net/s/natio_mp3_128k
+
+#EXTINF:-1 tvg-id="RFM.fr" tvg-logo="https://i.imgur.com/6JJla7f.png" group-title="Radio",RFM
+https://stream.rfm.fr/rfm-64200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nostalgie.fr" tvg-logo="https://i.imgur.com/GebTvoi.png" group-title="Radio",Nostalgie
+https://scdn.nrjaudio.fm/fr/30601/aac_64.mp3?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs9&access_token=ffb8813434764d568da10f4264006898
+
+#EXTINF:-1 tvg-id="RireEtChansons.fr" tvg-logo="https://i.imgur.com/S0kX1SN.png" group-title="Radio",Rire & Chansons
+https://scdn.nrjaudio.fm/fr/30401/aac_64.mp3?origine=playerrire&aw_0_req.userConsentV2=&aw_0_1st.station=&cdn_path=audio_lbs11&access_token=153d7d2d02324385ba32a57018675774
+
+
+#EXTINF:-1 tvg-id="Generation.fr" tvg-logo="https://generations.fr/media/option/logo.webp" group-title="Musique",Generations tv
+https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="WPT.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/World_Poker_Tour_Logo.svg/220px-World_Poker_Tour_Logo.svg.png" group-title="Sport",WPT tv
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-id="sofy.tvr" tvg-logo="https://sofy.tv/img/share_logo.png" group-title="Film",sofy.tv
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CentralTVHD.fr" tvg-name="Central TV HD" tvg-country="FR" tvg-language="FRA" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="Film",Central TV HD [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV" tvg-country="FR" tvg-language="fr" tvg-logo="" group-title="Musique",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+
+https://onedrive.live.com/embed?cid=2A293DC42BFD4058&resid=2A293DC42BFD4058%21168&authkey=AAE0GhbNWwx3EWM
+
+
+
+#EXTINF:-1 tvg-id="TMACaraibes.fr" tvg-name="TMA Caraïbes" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Musique",TMA Caraïbes
+http://hls.tmacaraibes.com/live/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Musique",Trace Latina
+https://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TraceSportStarsAustralia.fr" tvg-name="Trace Sport Stars (Australia)" tvg-country="FR" tvg-language="" tvg-logo="" group-title="",Trace Sport Stars (Australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrbanAustralia.fr" tvg-name="Trace Urban (Australia)" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Musique",Trace Urban (Australia)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
